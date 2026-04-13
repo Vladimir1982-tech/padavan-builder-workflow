@@ -5,13 +5,13 @@ PADAVAN_TOOLCHAIN_URL="https://gitlab.com/api/v4/projects/hadzhioglu%2Fpadavan-n
 
 PADAVAN_THEMES_REPO="https://gitlab.com/hadzhioglu/padavan-themes.git"
 #PADAVAN_THEMES_REPO="https://gitlab.com/hadzhioglu/padavan-themes-lite.git"
-PADAVAN_THEMES_BRANCH="main"
+PADAVAN_THEMES_BRANCH="https://github.com/Vladimir1982-tech/padavan-builder-workflow/blob/main/build.config"
 
 PADAVAN_THEMES=(
-#  blue
-#  blue2
-#  grey
-#  grey2
-#  white
-#  yellow
+  blue
+  blue2
+  grey
+  grey2
+  white
+  yellow
 )
